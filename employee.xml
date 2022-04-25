@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <address>
+        <city>Yerevan</city>
+        <country>Armenia</country>
+        <postalCode>0062</postalCode>
+        <street>Moldovakan 44/3</street>
+    </address>
+    <age>36</age>
+    <firstName>Garnik</firstName>
+    <lastName>Vardanyan</lastName>
+    <pnl>
+        <phone>+37477514417</phone>
+        <phoneNumberType>Mobile</phoneNumberType>
+    </pnl>
+</employeeXML>

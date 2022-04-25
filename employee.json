@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "name",
+    "lastName": "lastname",
+    "age": 18
+  },
+  {
+    "firstName": "name2",
+    "lastName": "lastname2",
+    "age": 20
+  },
+  {
+    "firstName": "name3",
+    "lastName": "lastname3",
+    "age": 30
+  }
+]
